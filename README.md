@@ -1,5 +1,7 @@
 # Lezing Geschiedenis van Softwarepiraterij
 
+*Zie [releases](https://github.com/FolkertVanVerseveld/lezing_warez/releases/latest) voor de laatste versie*
+
 Toen de eerste computersoftware werd geschreven, was er een behoefte om deze
 media zo lang mogelijk te bewaren en om deze te verspreiden over groter publiek.
 Wanneer er niet voor een stuk computersoftware betaald was, spreken we van
@@ -19,6 +21,10 @@ ook vinden op de [VIA website](https://svia.nl/activities/770/).
 De demoscene is ontstaan uit copy-parties in de jaren 80.
 [www.demoparty.net](https://www.demoparty.net/) geeft een overzicht van alle
 demoparties die over de hele wereld plaatsvinden.
+
+Er is ook een [algemene demoscene website](https://www.scene.org/), alhoewel
+daar altijd aan gewerkt wordt. Er zijn diverse dochterwebsites die een goed
+begin zijn voor mensen die voor het eerst in aanraking komen met de demoscene.
 
 Een erg uitgebreide documentaire, waarvan gedurende de lezing enkele fragmenten
 is getoond, is [Moleman 2: The Art of Algorithms](https://www.youtube.com/watch?v=iRkZcTg1JWU).
