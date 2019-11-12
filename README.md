@@ -16,6 +16,17 @@ ook vinden op de [VIA website](https://svia.nl/activities/770/).
 
 # Links
 
+## Reverse engineering tools
+
+Het debuggen en reverse engineeren van warez wordt tegenwoordig vaak met
+professionele tools gedaan, waaronder IDA van Hex-Rays. Er is een freeware
+non-commercial license te verkrijgen via op hun eigen website van
+[versie 7.0](https://www.hex-rays.com/products/ida/support/download_freeware.shtml)
+
+Daarnaast is er ook [ghidra](https://github.com/NationalSecurityAgency/ghidra)
+van, jawel, de NSA, maar of dat verstandig is om in een niet sandboxed omgeving
+te gebruiken kunnen we geen uitspraak over doen.
+
 ## Demoscene en Demoparties
 
 De demoscene is ontstaan uit copy-parties in de jaren 80.
